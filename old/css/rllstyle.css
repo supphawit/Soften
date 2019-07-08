@@ -1,0 +1,81 @@
+.slide{
+  width: 100%;
+  height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: auto;
+}
+.contentMargin{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.moreMargin{
+  margin-left:100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.sign{
+  margin-right: 10px;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.toneweb{
+  background-color :#fff3ed;
+}
+.tonemenu{
+  background-color :#ff814b;
+}
+
+.footersize{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: auto;
+  padding-right: auto;
+}
+.btn-rll{
+  color: #212529;
+  background-color: #fd7c55;
+
+}
+.fontNav{
+  color: white;
+  margin-top: 8px;
+}
+
+.fontONav{
+  color: #e94b1b;
+  
+}
+
+.font1Nav{
+  color: #fd7c55;
+  
+}
+
+.font2Nav{
+  color: #f11313;
+  
+}
+
+.marginOK{
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btnCenter{
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  margin-left: auto;
+  margin-right:auto;
+}
+.g-recaptcha{
+  margin-bottom: 10px;
+}
