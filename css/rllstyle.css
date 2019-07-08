@@ -1,0 +1,136 @@
+.slide{
+  width: 100%;
+  height: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: auto;
+}
+.contentMargin{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.moreMargin{
+  margin-left:50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.moreMarginLeft{
+  margin-left:50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.sign{
+  margin-right: 10px;
+  margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.toneweb{
+  background-color :#fff3ed;
+}
+.tonemenu{
+  background-color :#ff814b;
+}
+
+.footersize{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: auto;
+  padding-right: auto;
+}
+.btn-rll{
+  color: #212529;
+  background-color: #fd7c55;
+
+}
+.fontNav{
+  color: white;
+  margin-top: 8px;
+}
+
+.fontONav{
+  color: #e94b1b;
+  
+}
+
+.font1Nav{
+  color: #fd7c55;
+  
+}
+
+.font2Nav{
+  color: #f11313;
+  
+}
+
+.fontTime{
+  color: #9b9b9b;
+  
+}
+
+.marginOK{
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.btnCenter{
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  margin-left: auto;
+  margin-right:auto;
+}
+.g-recaptcha{
+  margin-bottom: 10px;
+}
+
+.btn-pink {
+  color: #fff;
+  background-color: #f6a7ca;
+  border-color: #f6a7ca;
+}
+
+.btn-pink:hover {
+  color: #fff;
+  background-color: #f576af;
+  border-color: #f576af;
+}
+
+.btn-pink:focus, .btn-pink.focus {
+  box-shadow: 0 0 0 0.2rem rgba(214, 33, 139, 0.5);
+}
+
+.btn-pink.disabled, .btn-pink:disabled {
+  color: #fff;
+  background-color: #f576af;
+  border-color: #f576af;
+}
+
+.btn-pink:not(:disabled):not(.disabled):active, .btn-pink:not(:disabled):not(.disabled).active,
+.show > .btn-pink.dropdown-toggle {
+  color: #fff;
+  background-color: #f576af;
+  border-color: #f576af;
+}
+
+.btn-menu{
+  background-color:#ff814b;
+  color:white;
+  justify-content: center;
+  text-decoration: none;
+}
+.btn-menu a{
+  text-decoration: none;
+}
+.btn-menu:hover{
+  background-color:#ff814b;
+  color:#007bff;
+}
